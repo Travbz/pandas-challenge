@@ -2,10 +2,10 @@
 This is an financial analysis of the video game Heroes of Pymoli, a free to play game where players are encouraged to purchase in game items to enhance their gameing experiance.
 
 ## Technologies Used
-*Python
-*Pandas Library
-*Jupyter Notebook
-.csv files
+* Python
+* Pandas Library
+* Jupyter Notebook
+* .csv files
 
 ## Author Travis Bridle
 
