@@ -7,8 +7,6 @@ This is an financial analysis of the video game Heroes of Pymoli, a free to play
 * Jupyter Notebook
 * .csv files
 
-## Author Travis Bridle
-
 
 ## At a glance...
 Here you have a csv file containing various data about players of the video game Heroes of Pymoli. Originally i tried to create a unique variable for each calculation needed for my analysis but found it much simpler to perform these calcualtions within a single variable used to generate the dataframe. This jupyter notebook contains 9 dataframes that sum up my findings as per a guidlines i am following for this analysis.
@@ -30,3 +28,5 @@ Here you have a csv file containing various data about players of the video game
 
 ### This concludes my report on Heroes of Pymoli
 
+## Author
+#### Travis Bridle
